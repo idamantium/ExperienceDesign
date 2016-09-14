@@ -24,6 +24,11 @@ Grading: In class participation - 30%, Assignments - 30%, Final experience and s
 
 ##Schedule and Assignments
 
+###Aug 26
+
+Assignment (Due Sep 2nd):
+
+* Compose a short written reflection (300 - 500 words) on an experience that moved you profoundly.
 
 ###Sep 2:		Introduction to Social Experience and Experience Design
 
