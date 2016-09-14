@@ -5,7 +5,6 @@ Selected Fridays, 9am - 12:40pm
 Instructor: Ida C. Benedetto  
 ida @ uncommonplaces . com  
 Office hours by appointment  
-   
 
 #Experience Design 
 
