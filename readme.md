@@ -10,6 +10,8 @@ Office hours by appointment
 
 Experience Design can be defined as the creation of experiences for the purposes of entertainment, persuasion, recreation, or human enrichment where the emotional journey of the individual or a group is the focus. The influence of experience design is hard to refute. JWT’s “Future 100 Trends and Changes to Watch in 2015” cites “experientialism” as a dominant trend in retail design. Marketing firms are quickly adding experiential campaigns as one of their cutting edge offerings along with more traditional media channels. Alternative experience meccas like Burning Man have entered mainstream awareness. Disney Imagineering maintains such powerful cultural and economic sway that it successfully lobbied the US government to create a custom visa class for its foreign-born theme park workers. 
 
+For additional information on VCU policies, see http://go.vcu.edu/syllabus. 
+
 ###Objectives
 In this course, we will look at foundational concepts that influence the design of experiences. The goal is to gain insights relevant beyond the experience design hype. The insights should enrich your practice no matter what medium you work in. Readings include works of sociology, anthropology, and psychology, as well as sampling from game design, fringe cultural actors, and critical theory on identity politics. 
 
@@ -144,3 +146,6 @@ Readings:
 * Video: [ABC Nightline - IDEO Shopping Cart](https://www.youtube.com/watch?v=M66ZU2PCIcM)  
 		This video focuses on product design, the the techniques of observation are relevant to experience design as well.
 * 
+
+
+
