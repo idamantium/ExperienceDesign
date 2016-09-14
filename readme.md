@@ -43,12 +43,12 @@ Agenda:
 
 Readings: 
 
-* Erving Goffman, The Presentation of Self in Everyday Life. 
+* [Erving Goffman, The Presentation of Self in Everyday Life.](https://www.dropbox.com/s/skndj6oaucsxk69/Goffman_Erving_The_Presentation_of_Self_in_Everyday_Life.pdf?dl=0) 
 	* Chapters: 3. Regions and Region Behavior, 4. Discrepant Roles
 		
 Assignment (Ongoing, but due Sep 21): 
 
-* Observe locations and phenomenon around Richmond that could benefit from experience design, for example: parking tickets or abandoned structures. Post observations to Slack, both verbal and photographic. Focus on the emotional and social pull of the thing you are observing. Post observations to Slack.
+* Observe locations and phenomenon around Richmond that could benefit from experience design, for example: parking tickets or abandoned structures. Post observations to Slack, both verbal and photographic. Focus on the emotional and social pull of the thing you are observing.
 
 
 
@@ -73,7 +73,7 @@ Readings:
 
 Assignment (Due Oct 21): 
 
-* Chose a few observations from the previous assignment to experiment with and test. What assumptions do you have about the phenomenon? What do you still not understand about it? Do social and exploratory experiments to clarify how the phenomenon works and why. Write a short (300 - 500 word) reflection on how it went. Honest reflections on challenges and failures are more useful than posturing about success.
+* Chose a few observations from the previous assignment to experiment with and test. What assumptions do you have about the phenomenon? What do you still not understand about it? Do social and exploratory experiments to clarify how the phenomenon works and why. Write a short (300 - 500 word) reflection on how it went. Honest reflections on challenges and failures are more useful than posturing about success. General discussion on Slack before turning in your reflection is encouraged. 
 
 
 ###Oct 14:		Handy Things from Game Design
@@ -92,7 +92,7 @@ Readings:
 			
 Assignment (Due Nov 2): 
 
-* Design and write up the plan for an experience based on the previous two assignments with an eye toward actually executing the experience. The plan should include the results of observations and initial tests, how they inform the experience design, overall goals for the experiences, and production plans, including details on the schedule, materials, and support team. Complete this assignment in groups of 3 - 4 people. (Check in with me if you want to do this in bigger groups.)
+* Design and write up the plan for an experience based on the previous two assignments with an eye toward actually executing the experience. The plan should include the results of observations and initial tests, how they inform the experience design, overall goals for the experiences, who it is for and why, and production plans, including details on the schedule, materials, and support team. Complete this assignment in groups of 3 - 4 people. (Check in with me if you want to do this in bigger groups.)
 			     
 
 
