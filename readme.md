@@ -66,7 +66,7 @@ Readings:
 
 Assignment (Due Oct 21): 
 
-* Chose a few observations from the previous assignment to experiement with and test. What assumptions do you have about the phenomenon? What do you still not understand about it? Do social and exploratory experiments to clarify how the phenomenon works and why. Write a short (300 - 500 word) reflection on how it went. Honest reflections on challenges and failures are more useful than posturing about success.
+* Chose a few observations from the previous assignment to experiment with and test. What assumptions do you have about the phenomenon? What do you still not understand about it? Do social and exploratory experiments to clarify how the phenomenon works and why. Write a short (300 - 500 word) reflection on how it went. Honest reflections on challenges and failures are more useful than posturing about success.
 
 
 ###Oct 14:		Handy Things from Game Design
@@ -107,7 +107,7 @@ Readings:
 * Additional Readings TBA
 		
 		
-Final Assignement (Due Dec 2): 
+Final Assignment (Due Dec 2): 
  
 * Implement the experience! Write individual reflections on how it went. Come to the final class prepared to share results and discuss.
 
@@ -117,15 +117,15 @@ Final Assignement (Due Dec 2):
 
 Agenda:
 
-* Overview of Idnetity and Body Politics 
-* Presentations from students on their expereinces 	
+* Overview of Identity and Body Politics 
+* Presentations from students on their experiences 	
 		
 		
 Readings: 
 
 * Cyborg Manifesto
 * Zombie Manifesto
-* How We Became Posthuman
+* How We Became Post-human
 * Unpacking the Knapsack
 * Whose Cultural Capital? 
 		
