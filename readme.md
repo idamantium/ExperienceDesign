@@ -87,8 +87,10 @@ Agenda:
 
 Readings:	
 
-* Eric Zimmerman and Katie Salen, Rules of Play (chapters TBA)
-* Mihály Csíkszentmihályi, Flow (chapters TBA)
+* [Eric Zimmerman and Katie Salen, Rules of Play](https://www.dropbox.com/s/38h1c2mmqmnsycm/1-rules-of-play-game-design-fundamentals.pdf?dl=0)
+	* Chapters: 6. Interactivity, 9. The Magic Circle, 10. The Primary Schemas, 12. Rules on Three Levels, 14. Games as Emergent Systems, 19. Games as Game Theory Systems, 20. Games as System of Conflict, 23. Games as The Play of Experience
+* [Mihály Csíkszentmihályi, Flow](https://www.dropbox.com/s/8afemtgmkac6kbz/Csikszentmihalyi-Flow-Ch4.pdf?dl=0)
+	* Chapter: 4. The Conditions of Flow
 			
 Assignment (Due Nov 2): 
 
