@@ -111,9 +111,14 @@ Agenda:
 
 Readings: 
 		
-* Tales from the San Francisco Cacophony Society (chapters TBA)
-* Romancing the Looky Loos
-* Additional Readings TBA
+
+
+
+* [Kevin Evans, Carrie Galbraith, and John Law, Tales of the San Francisco Cacophony Society.](https://github.com/idamantium/Experiencing-Transgression/blob/master/Readings/CacophonyPrincipals.pdf) 
+	* "Chaotic Principals" 
+	* ([See Wikipedia for a little context](https://en.wikipedia.org/wiki/Cacophony_Society))
+* [Dave Hickey, Air Guitar: Essays on Art and Democracy](https://github.com/idamantium/Experiencing-Transgression/blob/master/Readings/Romancing%20the%20Looky-Loos.pdf)
+	* "Romancing the Looky-Loos" 
 		
 		
 Final Assignment (Due Dec 2): 
@@ -147,7 +152,7 @@ Readings:
 
 * Video: [ABC Nightline - IDEO Shopping Cart](https://www.youtube.com/watch?v=M66ZU2PCIcM)  
 		This video focuses on product design, the the techniques of observation are relevant to experience design as well.
-* 
+
 
 
 
