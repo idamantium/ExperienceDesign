@@ -136,12 +136,13 @@ Agenda:
 		
 		
 Readings: 
-
-* Cyborg Manifesto
-* Zombie Manifesto
+(Read them in this order so if your brain melts, it does so in a good way, not a bad way.)
+* [Peggy McIntosh, White Privilege: Unpacking the Invisible Knapsack](https://www.dropbox.com/s/uan49yk46otu9uj/WhitePrivilege.pdf?dl=0)
+* [Tara J. Yasso, Whose culture has capital? A Critical Race Theory Discussion of Community Cultural Wealth](https://www.dropbox.com/s/txy586gs32b24mj/Yosso-Whose-Culture-has-Capital.pdf?dl=0) 
+* [Donna Harraway, A Cyborg Manifesto](https://www.dropbox.com/s/xkldmki6bpsu8bv/Haraway-CyborgManifesto-1.pdf?dl=0)
+* [Sarah Juliet Lauro and Karen Embry, A Zombie Manifesto: The Nonhuman Condition in the Era of Advanced Capitalism](https://www.dropbox.com/s/37szrcnf8i3bofv/A%20Zombie%20Manifesto%20The%20Nonhum.pdf?dl=0)
 * How We Became Post-human
-* Unpacking the Knapsack
-* Whose Cultural Capital? 
+
 		
 		
 		
