@@ -119,11 +119,29 @@ Readings:
 	* ([See Wikipedia for a little context](https://en.wikipedia.org/wiki/Cacophony_Society))
 * [Dave Hickey, Air Guitar: Essays on Art and Democracy](https://github.com/idamantium/Experiencing-Transgression/blob/master/Readings/Romancing%20the%20Looky-Loos.pdf)
 	* "Romancing the Looky-Loos" 
-		
+
+
+
+Group Focusing and Tuning (Due Nov 8th):
+
+ * Submit answers to these questions as groups: 
+ 	* Who is your experience for?
+ 	* How are you meaningfully and generously engaging participants?
+ 	* What is the goal? What do you want the participants to experience?
+ 	* What could go wrong? Why won’t this work?
+	* What would wild success look like?
+
+Group Progress Calls (Nov 13th & 14th):
+
+ * Discuss specific plans and progress with designing the expereince
+ * Follow up benchmarks will be decided upon on a group by group basis.
+
 		
 Final Assignment (Due Dec 2): 
  
-* Implement the experience! Write individual reflections on how it went. Come to the final class prepared to share results and discuss.
+* Implement the experience! 
+* Write individual reflections on how it went (I will post questions to structure the reflections). 
+* Come to the final class prepared to share results as a group and discuss.
 
 
 ###Dec 2:		Bodies and Identities
@@ -137,6 +155,7 @@ Agenda:
 		
 Readings: 
 (Read them in this order so if your brain melts, it does so in a good way, not a bad way.)
+
 * [Peggy McIntosh, White Privilege: Unpacking the Invisible Knapsack](https://www.dropbox.com/s/uan49yk46otu9uj/WhitePrivilege.pdf?dl=0)
 * [Tara J. Yasso, Whose culture has capital? A Critical Race Theory Discussion of Community Cultural Wealth](https://www.dropbox.com/s/txy586gs32b24mj/Yosso-Whose-Culture-has-Capital.pdf?dl=0) 
 * [Donna Harraway, A Cyborg Manifesto](https://www.dropbox.com/s/xkldmki6bpsu8bv/Haraway-CyborgManifesto-1.pdf?dl=0)
