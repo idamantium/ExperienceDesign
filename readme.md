@@ -8,9 +8,7 @@ Office hours by appointment
 
 # Experience Design 
 
-Experience Design can be defined as the creation of experiences for the purposes of entertainment, persuasion, recreation, or human enrichment where the emotional journey of the individual or a group is the focus. The influence of experience design is hard to refute. JWT’s “Future 100 Trends and Changes to Watch in 2015” cites “experientialism” as a dominant trend in retail design. Marketing firms are quickly adding experiential campaigns as one of their cutting edge offerings along with more traditional media channels. Alternative experience meccas like Burning Man have entered mainstream awareness. Disney Imagineering maintains such powerful cultural and economic sway that it successfully lobbied the US government to create a custom visa class for its foreign-born theme park workers. 
-
-For additional information on VCU policies, see http://go.vcu.edu/syllabus. 
+Experience Design can be defined as the creation of experiences for the purposes of entertainment, persuasion, recreation, or human enrichment where the emotional journey of the individual or a group is the focus. The influence of experience design is hard to refute. JWT’s “Future 100 Trends and Changes to Watch in 2015” cites “experientialism” as a dominant trend in retail design. Marketing firms are quickly adding experiential campaigns as one of their cutting edge offerings along with more traditional media channels. Alternative experience meccas like Burning Man have entered mainstream awareness. Disney Imagineering maintains such powerful cultural and economic sway that it successfully lobbied the US government to create a custom visa class for its foreign-born theme park workers. Experience design in increasingly everywhere. 
 
 ### Objectives
 In this course, we will look at foundational concepts that influence the design of experiences. The goal is to gain insights relevant beyond the experience design hype. The insights should enrich your practice no matter what medium you work in. Readings include works of sociology, anthropology, and psychology, as well as sampling from game design, fringe cultural actors, and critical theory on identity politics. 
@@ -21,6 +19,9 @@ Readings, attendance, and in-class participation are a must. In addition, you ar
 ### Evaluation
 You will be evaluated on the quality of your engagement, the rigor of your design activities, and the insightfulness with which you assess your own work.  
 Grading: In class participation - 30%, Assignments - 30%, Final experience and self-assessment - 40%.
+
+For additional information on VCU policies, see http://go.vcu.edu/syllabus. 
+
 
 
 
