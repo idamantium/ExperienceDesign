@@ -18,15 +18,15 @@ In this course, we will look at foundational concepts that influence the design 
 ### Requirements
 Readings, attendance, and in-class participation are a must. In addition, you are asked to design and execute an experience yourselves. Successful experiences, which meaningfully and generously engage participants, will be applauded. Failed attempts, which fall short of creating new possibilities in the world, will be honored for the lessons presented. Communication outside class is by email and group Slack discuss. 
 
-###Evaluation
+### Evaluation
 You will be evaluated on the quality of your engagement, the rigor of your design activities, and the insightfulness with which you assess your own work.  
 Grading: In class participation - 30%, Assignments - 30%, Final experience and self-assessment - 40%.
 
 
 
-##Schedule and Assignments
+## Schedule and Assignments
 
-###Aug 26
+### Aug 26
 
 Assignment (Due Sep 2nd):
 
