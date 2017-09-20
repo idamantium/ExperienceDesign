@@ -6,16 +6,16 @@ Instructor: Ida C. Benedetto
 ida @ uncommonplaces . com  
 Office hours by appointment  
 
-#Experience Design 
+# Experience Design 
 
 Experience Design can be defined as the creation of experiences for the purposes of entertainment, persuasion, recreation, or human enrichment where the emotional journey of the individual or a group is the focus. The influence of experience design is hard to refute. JWT’s “Future 100 Trends and Changes to Watch in 2015” cites “experientialism” as a dominant trend in retail design. Marketing firms are quickly adding experiential campaigns as one of their cutting edge offerings along with more traditional media channels. Alternative experience meccas like Burning Man have entered mainstream awareness. Disney Imagineering maintains such powerful cultural and economic sway that it successfully lobbied the US government to create a custom visa class for its foreign-born theme park workers. 
 
 For additional information on VCU policies, see http://go.vcu.edu/syllabus. 
 
-###Objectives
+### Objectives
 In this course, we will look at foundational concepts that influence the design of experiences. The goal is to gain insights relevant beyond the experience design hype. The insights should enrich your practice no matter what medium you work in. Readings include works of sociology, anthropology, and psychology, as well as sampling from game design, fringe cultural actors, and critical theory on identity politics. 
 
-###Requirements
+### Requirements
 Readings, attendance, and in-class participation are a must. In addition, you are asked to design and execute an experience yourselves. Successful experiences, which meaningfully and generously engage participants, will be applauded. Failed attempts, which fall short of creating new possibilities in the world, will be honored for the lessons presented. Communication outside class is by email and group Slack discuss. 
 
 ###Evaluation
@@ -32,7 +32,7 @@ Assignment (Due Sep 2nd):
 
 * Compose a short written reflection (300 - 500 words) on an experience that moved you profoundly.
 
-###Sep 2:		Introduction to Social Experience and Experience Design
+### Sep 2: Introduction to Social Experience and Experience Design
 
 Agenda:
 
@@ -52,7 +52,7 @@ Assignment (Ongoing, but due Sep 21):
 
 
 
-###Sep 23:		Potentials and Possibilities for Experience Design
+### Sep 23: Potentials and Possibilities for Experience Design
 
 
 Agenda:
@@ -76,7 +76,7 @@ Assignment (Due Oct 21):
 * Chose a few observations from the previous assignment to experiment with and test. What assumptions do you have about the phenomenon? What do you still not understand about it? Do social and exploratory experiments to clarify how the phenomenon works and why. Write a short (300 - 500 word) reflection on how it went. Honest reflections on challenges and failures are more useful than posturing about success. General discussion on Slack before turning in your reflection is encouraged. 
 
 
-###Oct 14:		Handy Things from Game Design
+### Oct 14: Handy Things from Game Design
 
 
 Agenda:
@@ -98,7 +98,7 @@ Assignment (Due Nov 2):
 			     
 
 
-###Nov 4:		Getting A Little Wild with Open Ended Experiences
+### Nov 4: Getting A Little Wild with Open Ended Experiences
 
 
 
@@ -144,7 +144,7 @@ Final Assignment (Due Dec 2):
 * Come to the final class prepared to share results as a group and discuss.
 
 
-###Dec 2:		Bodies and Identities
+### Dec 2: Bodies and Identities
 
 
 Agenda:
